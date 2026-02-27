@@ -18,6 +18,6 @@ apegos. É um fluxo de vivências!
 nasce da convivência e não em
 experiências virtuais.
 
-<img src="pscossocial.webp" style="width:500px;height:600px;">
+<img src="psicossocial.webp" style="width:500px;height:600px;">
   </body>
   </html>
