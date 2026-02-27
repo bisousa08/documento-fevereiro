@@ -6,7 +6,7 @@ DILIGÊNCIA X INFERIORIDADE, IDENTIDADE X CONFUSÃO, INTIMIDADE X ISOLAMENTO, GE
 -A vida acompanha um
 aprendizado contínuo de reflexão
 e ressignificação.
--A pscólogo por fim argumenta o quanto a inteligência emocional,
+-O pscólogo por fim argumenta o quanto a inteligência emocional,
 nasce da convivência e não em
 experiências virtuais.
 <img src="amigos.jpg">
