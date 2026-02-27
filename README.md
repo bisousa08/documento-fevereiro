@@ -1,5 +1,6 @@
 # fevereiro
-- A mentalidade de crescimento lida com as dificuldades como um modo de aprendizado
+<html>
+<h1 style="background-color:#FF6347;">- A mentalidade de crescimento lida com as dificuldades como um modo de aprendizado
   além de conseguir se adaptar com as mudanças da vida
 - Os estágios psocossociais são: CONFIANÇA X DESCONFIANÇA, AUTONOMIA X VERGONHA, INICIATIVA X CULPA
 DILIGÊNCIA X INFERIORIDADE, IDENTIDADE X CONFUSÃO, INTIMIDADE X ISOLAMENTO, GENERATIVIDADE X ESTAGNAÇÃO e INTEGRIDADE X DESESPERO
@@ -8,5 +9,6 @@ aprendizado contínuo de reflexão
 e ressignificação.
 -O pscólogo por fim argumenta o quanto a inteligência emocional,
 nasce da convivência e não em
-experiências virtuais.
+experiências virtuais.</h1>
 <img src="amigos.jpg">
+</html>
